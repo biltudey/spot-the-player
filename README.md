@@ -12,10 +12,19 @@ You will able to detected football player who are playing football match.
 
 [![Run The Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/biltudey/spot-the-player/blob/main/spot_the_player.ipynb)
 
-**After unzip training folder `our_cus_coco128.yaml` file should be move into `/yolov5/data/` then run `train`code shel**
+**After unzip training folder `our_cus_coco128.yaml` file should be move into `/yolov5/data/` then run `train`code shel.**
 
 
 ## Demo
+original video
+
+
+https://user-images.githubusercontent.com/94779899/215269626-6280bee3-033d-41d0-8362-da06422580d1.mp4
+
+After Detection
+
+
+https://user-images.githubusercontent.com/94779899/215270022-1d83af3c-d5a6-4e52-bfb6-9c2348f30648.mp4
 
 
 
